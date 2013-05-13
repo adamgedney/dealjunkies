@@ -45,7 +45,7 @@ list-style: none;
 
 
 body{
-background: #fafafa;
+background: #efefe3;
 color: #6e6e6e;
 font: 62.5% "Helvetica Neue Light", Helvetica, Arial, sans-serif;
 }
@@ -83,7 +83,26 @@ color: #08298A;
 
 /*--------------------------------------End General / Start Main------------------------------------*/
 
+.body-image{
+	background: url("../images/DealJunkies_bg.jpg");
+	width: 1140px;
+	height: 2360px;
+	margin: -0 auto;
+}
 
+a.top-button{
+	position: relative;
+	display: block;
+	width: 208px;
+	top: 505px;
+	left: 910px;
 
+}
+
+a.bottom-button{
+	display: block;
+	width: 181px;
+	margin: -155px auto 0;
+}
 
 
